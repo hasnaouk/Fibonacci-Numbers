@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FibonacciNumbers {
 	
-	// method that gives the nth Fibonacci Number
+	// method that gives the (n + 1)th Fibonacci Number(index n)
 	public static long FibNum(long n) {		
 		if (n==0) // base case
 			return 0;
