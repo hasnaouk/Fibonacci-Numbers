@@ -41,7 +41,7 @@ public class FibonacciNumbers {
 		
 		 // find and display the Fibonacci number
 		 System.out.println("1st Method:\nThe Fibonacci number at index " + index + " is " + FibNum(index));
-		 System.out.println("2nd Method:\nThe Fibonacci number at index " + index + " is " + FibNum(index));
+		 System.out.println("2nd Method:\nThe Fibonacci number at index " + index + " is " + Fib(index));
 		
 	}
 }
